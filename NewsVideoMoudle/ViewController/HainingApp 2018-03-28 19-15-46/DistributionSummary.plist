@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HainingApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D7CCBCADEC86066ADABE2264F23D6257C514E106</string>
+				<key>dateExpires</key>
+				<string>2018/10/20</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GG69WU4VK9.com.haining.busapp</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GG69WU4VK9</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>HainingApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>83d48652-b1c7-49ff-9fff-ee828690078f</string>
+				<key>name</key>
+				<string>haining_dev</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GG69WU4VK9</string>
+				<key>name</key>
+				<string>Hangzhou Xiaobu Technology Co. Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
